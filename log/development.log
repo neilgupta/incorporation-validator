@@ -1,0 +1,700 @@
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-29 06:08:21 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/railties-4.1.1/lib/rails/templates/rails/welcome/index.html.erb (2.3ms)
+Completed 200 OK in 26ms (Views: 14.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-29 06:08:25 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/railties-4.1.1/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-29 06:08:25 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/railties-4.1.1/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate" for 127.0.0.1 at 2014-06-29 06:08:26 -0500
+
+ActionController::RoutingError (undefined local variable or method `validate' for ApplicationController:Class):
+  app/controllers/application_controller.rb:10:in `<class:ApplicationController>'
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.3ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.2ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (9.6ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (43.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-29 06:11:37 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/railties-4.1.1/lib/rails/templates/rails/welcome/index.html.erb (2.0ms)
+Completed 200 OK in 19ms (Views: 8.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-29 06:11:43 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/railties-4.1.1/lib/rails/templates/rails/welcome/index.html.erb (0.0ms)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-29 06:11:43 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/railties-4.1.1/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate" for 127.0.0.1 at 2014-06-29 06:11:43 -0500
+
+ActionController::RoutingError (undefined local variable or method `validate' for ApplicationController:Class):
+  app/controllers/application_controller.rb:10:in `<class:ApplicationController>'
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.2ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.4ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (8.3ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (33.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-29 11:22:24 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/railties-4.1.1/lib/rails/templates/rails/welcome/index.html.erb (2.3ms)
+Completed 200 OK in 37ms (Views: 28.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-29 11:22:24 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/railties-4.1.1/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-29 11:22:28 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/railties-4.1.1/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 1ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-29 11:22:28 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/railties-4.1.1/lib/rails/templates/rails/welcome/index.html.erb (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate" for 127.0.0.1 at 2014-06-29 11:22:28 -0500
+
+ActionController::RoutingError (undefined local variable or method `validate' for ApplicationController:Class):
+  app/controllers/application_controller.rb:10:in `<class:ApplicationController>'
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.2ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.5ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (9.3ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (39.2ms)
+
+
+Started GET "/validate" for 127.0.0.1 at 2014-06-29 11:23:25 -0500
+Processing by ApplicationController#validate as HTML
+Completed 500 Internal Server Error in 1ms
+
+NameError (uninitialized constant ApplicationController::HooverProxy):
+  app/controllers/application_controller.rb:7:in `validate'
+
+
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.8ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.2ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (20.1ms)
+
+
+Started GET "/validate" for 127.0.0.1 at 2014-06-29 11:24:03 -0500
+
+LoadError (cannot load such file -- HooverProxy):
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.7ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (16.7ms)
+
+
+Started GET "/validate" for 127.0.0.1 at 2014-06-29 11:24:27 -0500
+
+LoadError (cannot load such file -- ./scraper.rb):
+  lib/hoover_proxy.rb:1:in `<top (required)>'
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.8ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.6ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (16.7ms)
+
+
+Started GET "/validate" for 127.0.0.1 at 2014-06-29 11:24:57 -0500
+
+LoadError (cannot load such file -- mechanize):
+  lib/scraper.rb:2:in `<top (required)>'
+  lib/hoover_proxy.rb:1:in `<top (required)>'
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.1ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.2ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (23.9ms)
+
+
+Started GET "/validate" for 127.0.0.1 at 2014-06-29 11:26:10 -0500
+
+LoadError (cannot load such file -- mechanize):
+  lib/scraper.rb:1:in `<top (required)>'
+  lib/hoover_proxy.rb:1:in `<top (required)>'
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.6ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.8ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (16.5ms)
+
+
+Started GET "/validate" for 127.0.0.1 at 2014-06-29 11:27:34 -0500
+
+ActionController::RoutingError (uninitialized constant Scraper::Mechanize):
+  lib/scraper.rb:4:in `initialize'
+  lib/hoover_proxy.rb:48:in `new'
+  lib/hoover_proxy.rb:48:in `<top (required)>'
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.2ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.8ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (17.2ms)
+
+
+Started GET "/validate" for 127.0.0.1 at 2014-06-29 11:27:44 -0500
+
+ActionController::RoutingError (uninitialized constant Scraper::Mechanize):
+  lib/scraper.rb:4:in `initialize'
+  lib/hoover_proxy.rb:48:in `new'
+  lib/hoover_proxy.rb:48:in `<top (required)>'
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.4ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.7ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (15.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-29 11:42:42 -0500
+
+Gem::LoadError (Specified 'sqlite3' for database adapter, but the gem is not loaded. Add `gem 'sqlite3'` to your Gemfile (and ensure its version is at the minimum required by ActiveRecord).):
+  activerecord (4.1.1) lib/active_record/connection_adapters/connection_specification.rb:190:in `rescue in spec'
+  activerecord (4.1.1) lib/active_record/connection_adapters/connection_specification.rb:187:in `spec'
+  activerecord (4.1.1) lib/active_record/connection_handling.rb:50:in `establish_connection'
+  activerecord (4.1.1) lib/active_record/railtie.rb:129:in `block (2 levels) in <class:Railtie>'
+  activesupport (4.1.1) lib/active_support/lazy_load_hooks.rb:38:in `instance_eval'
+  activesupport (4.1.1) lib/active_support/lazy_load_hooks.rb:38:in `execute_hook'
+  activesupport (4.1.1) lib/active_support/lazy_load_hooks.rb:45:in `block in run_load_hooks'
+  activesupport (4.1.1) lib/active_support/lazy_load_hooks.rb:44:in `each'
+  activesupport (4.1.1) lib/active_support/lazy_load_hooks.rb:44:in `run_load_hooks'
+  activerecord (4.1.1) lib/active_record/base.rb:326:in `<module:ActiveRecord>'
+  activerecord (4.1.1) lib/active_record/base.rb:23:in `<top (required)>'
+  activerecord (4.1.1) lib/active_record/connection_adapters/abstract/connection_pool.rb:628:in `rescue in call'
+  activerecord (4.1.1) lib/active_record/connection_adapters/abstract/connection_pool.rb:619:in `call'
+  activerecord (4.1.1) lib/active_record/migration.rb:380:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:82:in `run_callbacks'
+  actionpack (4.1.1) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.1) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.1) lib/rails/engine.rb:514:in `call'
+  railties (4.1.1) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/Crimsonninja9/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/Crimsonninja9/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/Crimsonninja9/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.8ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.2ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (25.5ms)
+
+
+Started GET "/validate" for 127.0.0.1 at 2014-06-29 11:42:45 -0500
+
+Gem::LoadError (Specified 'sqlite3' for database adapter, but the gem is not loaded. Add `gem 'sqlite3'` to your Gemfile (and ensure its version is at the minimum required by ActiveRecord).):
+  activerecord (4.1.1) lib/active_record/connection_adapters/connection_specification.rb:190:in `rescue in spec'
+  activerecord (4.1.1) lib/active_record/connection_adapters/connection_specification.rb:187:in `spec'
+  activerecord (4.1.1) lib/active_record/connection_handling.rb:50:in `establish_connection'
+  activerecord (4.1.1) lib/active_record/railtie.rb:129:in `block (2 levels) in <class:Railtie>'
+  activesupport (4.1.1) lib/active_support/lazy_load_hooks.rb:38:in `instance_eval'
+  activesupport (4.1.1) lib/active_support/lazy_load_hooks.rb:38:in `execute_hook'
+  activesupport (4.1.1) lib/active_support/lazy_load_hooks.rb:45:in `block in run_load_hooks'
+  activesupport (4.1.1) lib/active_support/lazy_load_hooks.rb:44:in `each'
+  activesupport (4.1.1) lib/active_support/lazy_load_hooks.rb:44:in `run_load_hooks'
+  activerecord (4.1.1) lib/active_record/base.rb:326:in `<module:ActiveRecord>'
+  activerecord (4.1.1) lib/active_record/base.rb:23:in `<top (required)>'
+  activerecord (4.1.1) lib/active_record/connection_adapters/abstract/connection_pool.rb:628:in `rescue in call'
+  activerecord (4.1.1) lib/active_record/connection_adapters/abstract/connection_pool.rb:619:in `call'
+  activerecord (4.1.1) lib/active_record/migration.rb:380:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:82:in `run_callbacks'
+  actionpack (4.1.1) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.1) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.1) lib/rails/engine.rb:514:in `call'
+  railties (4.1.1) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/Crimsonninja9/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/Crimsonninja9/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/Crimsonninja9/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.9ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (20.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-29 11:43:39 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/railties-4.1.1/lib/rails/templates/rails/welcome/index.html.erb (1.9ms)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-29 11:43:43 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/railties-4.1.1/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-29 11:43:43 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/railties-4.1.1/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 1ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate" for 127.0.0.1 at 2014-06-29 11:43:43 -0500
+Processing by ApplicationController#validate as HTML
+Completed 500 Internal Server Error in 1ms
+
+NoMethodError (undefined method `encoding' for nil:NilClass):
+  lib/scraper.rb:14:in `search_web_page'
+  lib/hoover_proxy.rb:6:in `validate_company'
+  lib/hoover_proxy.rb:42:in `validate'
+  app/controllers/application_controller.rb:9:in `validate'
+
+
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.6ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.2ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (12.8ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (24.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-29 11:50:34 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/railties-4.1.1/lib/rails/templates/rails/welcome/index.html.erb (2.4ms)
+Completed 200 OK in 9ms (Views: 8.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-29 11:50:37 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/railties-4.1.1/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-29 11:50:42 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/railties-4.1.1/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-29 11:50:42 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/railties-4.1.1/lib/rails/templates/rails/welcome/index.html.erb (0.0ms)
+Completed 200 OK in 1ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate" for 127.0.0.1 at 2014-06-29 11:50:43 -0500
+Processing by ApplicationController#validate as HTML
+uninitialized constant ApplicationController::Excaptionally
+Parameters: {"controller"=>"application", "action"=>"validate"}
+/Users/Crimsonninja9/code/incorporation_validator/app/controllers/application_controller.rb:9:in `validate'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_controller/metal/implicit_render.rb:4:in `send_action'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/abstract_controller/base.rb:189:in `process_action'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_controller/metal/rendering.rb:10:in `process_action'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/activesupport-4.1.1/lib/active_support/callbacks.rb:113:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/activesupport-4.1.1/lib/active_support/callbacks.rb:113:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/activesupport-4.1.1/lib/active_support/callbacks.rb:229:in `block in halting'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/activesupport-4.1.1/lib/active_support/callbacks.rb:166:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/activesupport-4.1.1/lib/active_support/callbacks.rb:166:in `block in halting'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/activesupport-4.1.1/lib/active_support/callbacks.rb:86:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/activesupport-4.1.1/lib/active_support/callbacks.rb:86:in `run_callbacks'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/abstract_controller/callbacks.rb:19:in `process_action'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_controller/metal/rescue.rb:29:in `process_action'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/activesupport-4.1.1/lib/active_support/notifications.rb:159:in `block in instrument'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/activesupport-4.1.1/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/activesupport-4.1.1/lib/active_support/notifications.rb:159:in `instrument'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_controller/metal/params_wrapper.rb:250:in `process_action'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/activerecord-4.1.1/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/abstract_controller/base.rb:136:in `process'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionview-4.1.1/lib/action_view/rendering.rb:30:in `process'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_controller/metal.rb:195:in `dispatch'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_controller/metal.rb:231:in `block in action'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/routing/route_set.rb:80:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/routing/route_set.rb:48:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/journey/router.rb:71:in `block in call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/journey/router.rb:59:in `each'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/journey/router.rb:59:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/routing/route_set.rb:676:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/rack-1.5.2/lib/rack/etag.rb:23:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/rack-1.5.2/lib/rack/conditionalget.rb:25:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/rack-1.5.2/lib/rack/head.rb:11:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/flash.rb:254:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/rack-1.5.2/lib/rack/session/abstract/id.rb:225:in `context'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/rack-1.5.2/lib/rack/session/abstract/id.rb:220:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/cookies.rb:560:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/activerecord-4.1.1/lib/active_record/query_cache.rb:36:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/activerecord-4.1.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:621:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/activerecord-4.1.1/lib/active_record/migration.rb:380:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/activesupport-4.1.1/lib/active_support/callbacks.rb:82:in `run_callbacks'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/reloader.rb:73:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/railties-4.1.1/lib/rails/rack/logger.rb:38:in `call_app'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/railties-4.1.1/lib/rails/rack/logger.rb:20:in `block in call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/activesupport-4.1.1/lib/active_support/tagged_logging.rb:68:in `block in tagged'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/activesupport-4.1.1/lib/active_support/tagged_logging.rb:26:in `tagged'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/activesupport-4.1.1/lib/active_support/tagged_logging.rb:68:in `tagged'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/railties-4.1.1/lib/rails/rack/logger.rb:20:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/request_id.rb:21:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/rack-1.5.2/lib/rack/methodoverride.rb:21:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/rack-1.5.2/lib/rack/runtime.rb:17:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/activesupport-4.1.1/lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/rack-1.5.2/lib/rack/lock.rb:17:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/static.rb:64:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/rack-1.5.2/lib/rack/sendfile.rb:112:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/railties-4.1.1/lib/rails/engine.rb:514:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/railties-4.1.1/lib/rails/application.rb:144:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/rack-1.5.2/lib/rack/lock.rb:17:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/rack-1.5.2/lib/rack/content_length.rb:14:in `call'
+/Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/rack-1.5.2/lib/rack/handler/webrick.rb:60:in `service'
+/Users/Crimsonninja9/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+/Users/Crimsonninja9/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+/Users/Crimsonninja9/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+Completed 500 Internal Server Error in 4ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate" for 127.0.0.1 at 2014-06-29 11:51:08 -0500
+Processing by ApplicationController#validate as HTML
+Completed 400 Bad Request in 0ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate?user=Neil%20Gupta&company=Tabule" for 127.0.0.1 at 2014-06-29 11:51:47 -0500
+Processing by ApplicationController#validate as HTML
+  Parameters: {"user"=>"Neil Gupta", "company"=>"Tabule"}
+Completed 200 OK in 4775ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate?user=Neil%20Gupta&company=Tabule" for 127.0.0.1 at 2014-06-29 12:02:40 -0500
+
+SyntaxError (/Users/Crimsonninja9/code/incorporation_validator/lib/hoover_proxy.rb:37: syntax error, unexpected tSYMBEG, expecting '}'
+      :company => page_content.xpath...
+       ^
+/Users/Crimsonninja9/code/incorporation_validator/lib/hoover_proxy.rb:38: syntax error, unexpected '}', expecting keyword_end
+/Users/Crimsonninja9/code/incorporation_validator/lib/hoover_proxy.rb:48: syntax error, unexpected end-of-input, expecting keyword_end):
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.8ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.3ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (10.9ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (28.2ms)
+
+
+Started GET "/validate?user=Neil%20Gupta&company=Tabule" for 127.0.0.1 at 2014-06-29 12:03:21 -0500
+Processing by ApplicationController#validate as HTML
+  Parameters: {"user"=>"Neil Gupta", "company"=>"Tabule"}
+Completed 200 OK in 2144ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate?user=Neil%20Gupta&company=Apple" for 127.0.0.1 at 2014-06-29 12:04:24 -0500
+Processing by ApplicationController#validate as HTML
+  Parameters: {"user"=>"Neil Gupta", "company"=>"Apple"}
+Completed 200 OK in 1706ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate?user=Neil%20Gupta&company=Apple" for 127.0.0.1 at 2014-06-29 12:04:26 -0500
+Processing by ApplicationController#validate as HTML
+  Parameters: {"user"=>"Neil Gupta", "company"=>"Apple"}
+Completed 200 OK in 364ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate?user=Steve%20Jobs&company=Apple" for 127.0.0.1 at 2014-06-29 12:04:50 -0500
+Processing by ApplicationController#validate as HTML
+  Parameters: {"user"=>"Steve Jobs", "company"=>"Apple"}
+Completed 200 OK in 5814ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate?user=Tim%20Cook&company=Apple" for 127.0.0.1 at 2014-06-29 12:05:22 -0500
+Processing by ApplicationController#validate as HTML
+  Parameters: {"user"=>"Tim Cook", "company"=>"Apple"}
+Completed 200 OK in 6962ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate?user=Tim%20Cook&company=Apple" for 127.0.0.1 at 2014-06-29 12:17:17 -0500
+Processing by ApplicationController#validate as HTML
+  Parameters: {"user"=>"Tim Cook", "company"=>"Apple"}
+Completed 200 OK in 13422ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate?user=Tim%20Cook&company=Apple" for 127.0.0.1 at 2014-06-29 12:17:30 -0500
+Processing by ApplicationController#validate as HTML
+  Parameters: {"user"=>"Tim Cook", "company"=>"Apple"}
+Completed 200 OK in 166ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate?user=Tim%20Cook&company=Apple" for 127.0.0.1 at 2014-06-29 12:17:31 -0500
+Processing by ApplicationController#validate as HTML
+  Parameters: {"user"=>"Tim Cook", "company"=>"Apple"}
+Completed 200 OK in 114ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate?user=Tim%20Cook&company=Apple" for 127.0.0.1 at 2014-06-29 12:18:17 -0500
+Processing by ApplicationController#validate as HTML
+  Parameters: {"user"=>"Tim Cook", "company"=>"Apple"}
+Completed 200 OK in 663ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate?user=Tim%20Cook&company=Apple" for 127.0.0.1 at 2014-06-29 12:19:39 -0500
+Processing by ApplicationController#validate as HTML
+  Parameters: {"user"=>"Tim Cook", "company"=>"Apple"}
+Completed 200 OK in 621ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate?user=Tim%20Cook&company=Apple" for 127.0.0.1 at 2014-06-29 12:20:15 -0500
+Processing by ApplicationController#validate as HTML
+  Parameters: {"user"=>"Tim Cook", "company"=>"Apple"}
+Completed 200 OK in 1768ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate?user=Tim%20Cook&company=Apple" for 127.0.0.1 at 2014-06-29 12:22:16 -0500
+Processing by ApplicationController#validate as HTML
+  Parameters: {"user"=>"Tim Cook", "company"=>"Apple"}
+Completed 200 OK in 663ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate?user=Tim%20Cook&company=Apple" for 127.0.0.1 at 2014-06-29 12:22:37 -0500
+Processing by ApplicationController#validate as HTML
+  Parameters: {"user"=>"Tim Cook", "company"=>"Apple"}
+Completed 200 OK in 661ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate?user=Tim%20Cook&company=Apple" for 127.0.0.1 at 2014-06-29 12:23:38 -0500
+Processing by ApplicationController#validate as HTML
+  Parameters: {"user"=>"Tim Cook", "company"=>"Apple"}
+Completed 200 OK in 568ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate?user=Tim%20Cook&compsany=Apple" for 127.0.0.1 at 2014-06-29 12:23:59 -0500
+Processing by ApplicationController#validate as HTML
+  Parameters: {"user"=>"Tim Cook", "compsany"=>"Apple"}
+Completed 400 Bad Request in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate?user=Tim%20Cook&company=Apple" for 127.0.0.1 at 2014-06-29 12:24:03 -0500
+Processing by ApplicationController#validate as HTML
+  Parameters: {"user"=>"Tim Cook", "company"=>"Apple"}
+Completed 200 OK in 694ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate?user=Tim%20Cook&company=Apple" for 127.0.0.1 at 2014-06-29 12:24:14 -0500
+Processing by ApplicationController#validate as HTML
+  Parameters: {"user"=>"Tim Cook", "company"=>"Apple"}
+Completed 200 OK in 264ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate?user=Johnny%20Trinh&company=Apple" for 127.0.0.1 at 2014-06-29 12:24:26 -0500
+Processing by ApplicationController#validate as HTML
+  Parameters: {"user"=>"Johnny Trinh", "company"=>"Apple"}
+Completed 200 OK in 1415ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate?company=Apple" for 127.0.0.1 at 2014-06-29 12:24:37 -0500
+Processing by ApplicationController#validate as HTML
+  Parameters: {"company"=>"Apple"}
+Completed 200 OK in 164ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate" for 127.0.0.1 at 2014-06-29 12:35:53 -0500
+Processing by ApplicationController#validate as HTML
+Completed 400 Bad Request in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate&user=Jony&company=Apple" for 127.0.0.1 at 2014-06-29 12:36:39 -0500
+
+ActionController::RoutingError (No route matches [GET] "/validate&user=Jony&company=Apple"):
+  actionpack (4.1.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.1) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.1) lib/rails/engine.rb:514:in `call'
+  railties (4.1.1) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/Crimsonninja9/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/Crimsonninja9/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/Crimsonninja9/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.8ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (7.7ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (28.3ms)
+
+
+Started GET "/validate/user=Jony&company=Apple" for 127.0.0.1 at 2014-06-29 12:36:56 -0500
+
+ActionController::RoutingError (No route matches [GET] "/validate/user=Jony&company=Apple"):
+  actionpack (4.1.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.1) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.1) lib/rails/engine.rb:514:in `call'
+  railties (4.1.1) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/Crimsonninja9/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/Crimsonninja9/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/Crimsonninja9/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.8ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (14.9ms)
+
+
+Started GET "/validate&user=Jony&company=Apple" for 127.0.0.1 at 2014-06-29 12:37:11 -0500
+
+ActionController::RoutingError (No route matches [GET] "/validate&user=Jony&company=Apple"):
+  actionpack (4.1.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.1) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.1) lib/rails/engine.rb:514:in `call'
+  railties (4.1.1) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/Crimsonninja9/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/Crimsonninja9/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/Crimsonninja9/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.9ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.4ms)
+  Rendered /Users/Crimsonninja9/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (15.1ms)
+
+
+Started GET "/validate?user=Jony&company=Apple" for 127.0.0.1 at 2014-06-29 12:37:15 -0500
+Processing by ApplicationController#validate as HTML
+  Parameters: {"user"=>"Jony", "company"=>"Apple"}
+Completed 200 OK in 1445ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/validate?user=Jony%20ive&company=Apple" for 127.0.0.1 at 2014-06-29 12:38:57 -0500
+Processing by ApplicationController#validate as HTML
+  Parameters: {"user"=>"Jony ive", "company"=>"Apple"}
+Completed 200 OK in 1693ms (Views: 0.5ms | ActiveRecord: 0.0ms)
