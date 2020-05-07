@@ -1,5 +1,5 @@
 == Incorporation Validator
 
-This backend app was developed to be incorporated in Found, an app created for BattleHack 2014. This application checks against a database and verifies that a company is actually valid (found on the AngelList site).
+This backend app was developed to be incorporated in {Found}[https://github.com/Undesigned/foundation], an app created for BattleHack 2014. This application checks against a database and verifies that a company is actually valid (found on the AngelList site).
 
 Special Thanks to {Neil Gupta}[https://github.com/neilgupta] for introducing me to my first taste of web dev!
